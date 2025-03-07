@@ -34,6 +34,9 @@ Here are the key performance indicators (KPIs) framed as question statements: -
     4. Create a new measure for attrition rate calculation.
 
        Attrition Rate = SUM('HR analytics'[Attrition Count])/SUM('HR analytics'[EmployeeCount])
+  ## **Dashboard**
+    -<a href=>Dashboard</a>
+  
   ## **Project Insights & Recommendations**
 
   ## **Project Insights**
