@@ -8,7 +8,7 @@ Green Destinations, a well-known travel agency, is experiencing an increase in e
 ## **Dataset Used**
 https://github.com/maria-vensa/Greendestinations_HR-Analytics/blob/main/greendestination%20(1).csv
 
-##**Key Performance Indicators (KPIs)** 
+## **Key Performance Indicators (KPIs)** 
 Here are the key performance indicators (KPIs) framed as question statements: - 
 - What is the attrition count based on gender?
 - How does attrition vary across different education levels?
