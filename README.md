@@ -1,6 +1,6 @@
-# Green Destinations_HR-Analytics
+# **Green Destinations - Employee Attrition Analysis**
 I developed a comprehensive project in Power BI, creating multiple dashboards and tables to analyze the data. This process involved several stages, including data preprocessing, data cleaning, and data visualization.
-# **Green Destinations - Employee Attrition Analysis** 
+ 
 ## **Introduction** 
 Green Destinations, a well-known travel agency, is experiencing an increase in employee attrition (employees leaving the company). The HR Director wants to analyze this trend to identify any patterns or contributing factors. To facilitate this analysis, a survey has been conducted among the staff, and data has been provided for review. ### **Objectives of the Project** 
 1. **Determine the attrition rate** – Calculate the percentage of employees who have left.
