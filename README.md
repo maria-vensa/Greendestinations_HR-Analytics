@@ -7,6 +7,7 @@ Green Destinations, a well-known travel agency, is experiencing an increase in e
 2. **Identify influencing factors** – Analyze whether factors like age, years at the company, and income impact employee attrition. The findings from this analysis will help the HR Director understand employee turnover trends and possibly take corrective measures to improve retention. ---
 ## **Dataset Used**
 https://github.com/maria-vensa/Greendestinations_HR-Analytics/blob/main/greendestination%20(1).csv
+
 ##**Key Performance Indicators (KPIs)** 
 Here are the key performance indicators (KPIs) framed as question statements: - 
 - What is the attrition count based on gender?
