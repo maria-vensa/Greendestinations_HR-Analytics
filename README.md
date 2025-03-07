@@ -5,8 +5,9 @@ I developed a comprehensive project in Power BI, creating multiple dashboards an
 Green Destinations, a well-known travel agency, is experiencing an increase in employee attrition (employees leaving the company). The HR Director wants to analyze this trend to identify any patterns or contributing factors. To facilitate this analysis, a survey has been conducted among the staff, and data has been provided for review. ### **Objectives of the Project** 
 1. **Determine the attrition rate** – Calculate the percentage of employees who have left.
 2. **Identify influencing factors** – Analyze whether factors like age, years at the company, and income impact employee attrition. The findings from this analysis will help the HR Director understand employee turnover trends and possibly take corrective measures to improve retention. ---
-## **Dataset Used** 
-### **Key Performance Indicators (KPIs)** 
+## **Dataset Used**
+https://github.com/maria-vensa/Greendestinations_HR-Analytics/blob/main/greendestination%20(1).csv
+##**Key Performance Indicators (KPIs)** 
 Here are the key performance indicators (KPIs) framed as question statements: - 
 - What is the attrition count based on gender?
 - How does attrition vary across different education levels?
