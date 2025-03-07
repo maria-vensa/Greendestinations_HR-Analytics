@@ -35,7 +35,7 @@ Here are the key performance indicators (KPIs) framed as question statements: -
 
        Attrition Rate = SUM('HR analytics'[Attrition Count])/SUM('HR analytics'[EmployeeCount])
   ## **Dashboard**
-    -<a href=>Dashboard</a>
+    -<a href="https://github.com/maria-vensa/Greendestinations_HR-Analytics/blob/main/dashboard%20pic.png">Dashboard</a>
   
   ## **Project Insights & Recommendations**
 
